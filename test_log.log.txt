@@ -1,0 +1,15 @@
+2023-11-30 16:08:09,265 - INFO - Script started
+2023-11-30 16:08:19,979 - INFO - Adding Cookies
+2023-11-30 16:08:30,364 - INFO - Cookies addition successful
+2023-11-30 16:08:30,364 - INFO - Login successful
+2023-11-30 16:08:38,997 - ERROR - Error in cold drinks search: 'NoneType' object is not subscriptable
+2023-11-30 16:08:49,362 - INFO - soft drinks search successful - Keyword search successful
+2023-11-30 16:09:16,149 - ERROR - Error in drink search: 'NoneType' object is not subscriptable
+2023-11-30 16:09:16,149 - INFO - Url list generated
+2023-11-30 16:09:16,149 - INFO - Collecting products data
+2023-11-30 16:22:54,448 - INFO - Data collection successful
+2023-11-30 16:22:54,479 - INFO - Generating CSV
+2023-11-30 16:22:54,526 - INFO - CSV generated successfully
+2023-11-30 16:23:02,025 - INFO - Generating insights from data
+2023-11-30 16:23:10,634 - INFO - Insights generation successful
+2023-11-30 16:23:10,634 - INFO - Script finished
